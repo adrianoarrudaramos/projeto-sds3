@@ -1,4 +1,4 @@
-# Projeto desenvolvid0 na Semana Spring React
+# Projeto desenvolvido na Semana Spring React
 
 ## Tecnologias usadas
 
